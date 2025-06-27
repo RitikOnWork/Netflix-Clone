@@ -1,4 +1,4 @@
-🎬 Netflix Landing Page Clone (HTML & CSS Only)
+#🎬 Netflix Landing Page Clone (HTML & CSS Only)
 
 This project is a static clone of the official Netflix landing page, built entirely using HTML and CSS, without any JavaScript, frameworks (like React or Bootstrap), or third-party libraries.
 
