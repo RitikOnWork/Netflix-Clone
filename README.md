@@ -18,7 +18,7 @@ Footer mimicking Netflix’s real-world link layout and design
 📱 Responsive Design:
 Special attention was given to making the layout responsive using Flexbox and media queries. The design adapts smoothly across mobile, tablet, and desktop screen sizes, ensuring accessibility and usability on all devices.
 
-🎯 Core Objectives:
+<h2>🎯 Core Objectives:</h2>
 
 Practice building real-world UIs with semantic HTML structure
 
@@ -28,7 +28,7 @@ Develop pixel-perfect design without relying on external tools
 
 Gain Deeper understanding of layout techniques like positioning, layering, spacing, and alignment
 
-🧠 What I Learned:
+<h2>🧠 What I Learned:</h2>
 
 How to break down complex UI designs into manageable HTML/CSS components
 
@@ -36,10 +36,10 @@ Responsive design strategies using only core CSS features
 
 Importance of clean, maintainable code structure for scalability
 
-📁 Tech Stack:
+<h2>📁 Tech Stack:</h2>
 
-HTML5
+<h3>HTML5</h3>
 
-CSS3
+<h3>CSS3</h3>
 
 This project proves how much can be achieved with just HTML and CSS — a perfect exercise to sharpen frontend basics while working on a real, visually rich interface.
