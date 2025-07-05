@@ -7,7 +7,7 @@ The goal was to recreate the sleek, modern design of Netflix’s homepage and pr
 
 Header with Netflix logo and "Sign In" button
 
-Hero Section featuring a full-screen background image, main heading, subheading, and an email input form
+Featuring a full-screen background image, main heading, subheading, and an email input form
 
 Feature Sections with alternating text and image layout
 
